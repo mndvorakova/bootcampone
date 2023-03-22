@@ -14,6 +14,8 @@
 9. Nechceme do repozitory pustit JPG a PNG obrázky - přidejte do gitignore / done
 10. Nastavte si u nějakého commitu jeden TAG / done
 11. (volitelně, není nutné) Zkuste .gitconfig nastavit tak, aby soubory s příponou .txt bral jako binární. Pak zkuste udělat v txt souboru změnu a podívejte se, jak jí GIT uvidí. (co pak takový merge změn v TXT souboru? :-) )
+
+
 > Váš TL zjistí, kdo z kolegů bude úkol vyhodnocovat. Tomu pak umožněte přístup do repozitory pro kontrolu. Je to součástí vypracování úkolu
 
 
@@ -42,6 +44,3 @@ git cherry-pick
     ten libovolný soubor archivovat jako artefakt.
 
 
-	<sub>
-    This is a subscript text
-    </sub>
